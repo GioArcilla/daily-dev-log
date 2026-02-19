@@ -18,3 +18,6 @@ The goal: **no missed days** and steady growth as a developer.
 ## Log Format
 
 Each file is named using the format: YYYY-MM-DD.md
+
+## Version History
+- 2-18-2026: Initial README 
