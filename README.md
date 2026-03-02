@@ -21,4 +21,7 @@ Each file is named using the format: YYYY-MM-DD.md
 
 ## Version History
 - 2-18-2026: Initial README
-- 2026-03-1: February directory added, logs moved into February directory 
+- 2026-03-01: February directory added, logs moved into February directory 
+
+### Task List:
+- Clean up date formatting in version histories inside all repos
