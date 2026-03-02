@@ -3,7 +3,7 @@
 A personal commitment to consistency, reflection, and continuous improvement.
 
 This repository contains my daily development logs.  
-The goal: **no missed days** and steady growth as a developer.
+The goal: **no missed days** and steady growth as a professional.
 
 
 ## Purpose
