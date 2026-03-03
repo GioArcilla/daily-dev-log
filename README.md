@@ -20,7 +20,7 @@ The goal: **no missed days** and steady growth as a professional.
 Each file is named using the format: YYYY-MM-DD.md
 
 ## Version History
-- 2-18-2026: Initial README
+- 2026-02-18: Initial README
 - 2026-03-01: February directory added, logs moved into February directory 
 
 ### Task List:
