@@ -10,7 +10,15 @@ Throughout these sessions I explored network architecture, database services, se
    - Studied network deployment lifecycle stages from planning and hardware installation to configuration, testing, and documentation
 - Cybersecurity Concepts
   - Reviewed topics from the Security+ SY0-701 certification, including: Industrial Control Systems (ICS) and SCADA environments, Security Information and Event Management (SIEM) and Business partner agreements and service level agreements.
-- Development Workflow & Tools 
+- Development Workflow & Tools
+  - Explored Jira project management features, including task organization, Kanban boards, Scrum workflows, and template creation
+  - Introduced a recurring learning initiative called “More Tech Mondays” aimed at regularly exploring new technologies and software platforms outside current projects
+
+## Troubleshooting & Practical Work
+One of the documented sessions involved resolving a SQL credential issue by identifying the running SQL service, temporarily stopping the service, modifying administrative credentials, and restarting the service to verify the fix.
+
+This highlights a recurring theme across the logs: learning through direct troubleshooting and system administration tasks.
+
 ### Version History
 - 2026-03-01: Initial February directory created, February logs moved into directory
 - 2026-03-08: Format adjusted in 'Review' section of each log, general syntax adjustments for each log
