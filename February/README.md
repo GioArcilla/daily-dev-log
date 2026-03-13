@@ -19,10 +19,17 @@ One of the documented sessions involved resolving a SQL credential issue by iden
 
 This highlights a recurring theme across the logs: learning through direct troubleshooting and system administration tasks.
 
-## Development Philosophy
+## Development Logic
 A key reflection noted that development logic should extend beyond a single environment and also focus on building systems capable of supporting multiple domains and infrastructures.
+
+## Key Themes for: February
+- Expanding skillsets in cloud infrastructure and AWS services
+- Strengthening network deployment and architecture fundamentals
+- Reviewing cybersecurity concepts and operational security tools
+- Improving workflow organization and development processes
+- Exercising troubleshooting and system administration
 
 ### Version History
 - 2026-03-01: Initial February directory created, February logs moved into directory
 - 2026-03-08: Format adjusted in 'Review' section of each log, general syntax adjustments for each log
-- 2026-03-12: README updated 
+- 2026-03-12: README updated, Added sections: Overview, Key Objectives, Troubleshooting & Practical Work, Development Logic and Key Themes
