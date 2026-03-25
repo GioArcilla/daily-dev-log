@@ -29,7 +29,7 @@ A key reflection noted that development logic should extend beyond a single envi
 - Improving workflow organization and development processes
 - Exercising troubleshooting and system administration
 
-### Version History
+## Version History
 - 2026-03-01: Initial February directory created, February logs moved into directory
 - 2026-03-08: Format adjusted in 'Review' section of each log, general syntax adjustments for each log
 - 2026-03-12: README updated, Added sections: Overview, Key Objectives, Troubleshooting & Practical Work, Development Logic and Key Themes
