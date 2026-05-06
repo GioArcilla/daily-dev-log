@@ -23,6 +23,7 @@ Each file is named using the format: YYYY-MM-DD.md
 - 2026-02-18: Initial README
 - 2026-03-01: February directory added, logs moved into February directory
 - 2026-04-01: Month of April directory added, directories renamed
+- 2026-05-01: Month of May directory added, footer added
 
 ---
 
