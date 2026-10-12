@@ -3,16 +3,15 @@
 A personal commitment to consistency, reflection, and continuous improvement.
 
 This repository contains my daily development logs.  
-The goal: **minimal missed days** and steady documentation.
+The goal: Re-iterate research, integrations, and test.
 
 
 ## Purpose
 
-- Build discipline through meaningful daily commits
-- Track progress on projects
-- Reflect on lessons learned
-- Document blockers and solutions
-- Improve communication and technical writing skills
+- Build meaningful commits
+- Track progress
+- Reflect on research
+- Improve communication
 
 
 ## Log Format
